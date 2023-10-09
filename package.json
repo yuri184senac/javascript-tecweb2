@@ -2,5 +2,9 @@
   "dependencies": {
     "jszip": "^3.10.1",
     "readline-sync": "^1.4.10"
+  },
+  "module": "commonjs",
+  "scripts": {
+    "start": "node src/revisao-prova/arrayPrototypes.js"
   }
 }
